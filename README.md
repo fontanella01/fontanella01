@@ -11,7 +11,7 @@
 | [Portfolio](https://github.com/fontanella01/portfolio) | My personal site in Next.js, in Portuguese and English. |
 | WhatsApp AI agent | In progress: an AI customer service agent with a knowledge base (RAG) and human handoff. |
 
-**At work** I'm on the team behind a few SaaS products for marketing agencies and small businesses: a multi-tenant CRM with AI agents on WhatsApp, an agency management platform integrated with the Meta APIs, and a blog content platform. That code is private, so the projects above show the same skills.
+**At work** I'm on the team behind a few SaaS products for marketing agencies and small businesses: a multi-tenant CRM with AI agents on WhatsApp, an agency management platform integrated with the Meta APIs, an online learning platform with AI-suggested learning paths, and a blog content platform. That code is private, so the projects above show the same skills.
 
 **What I work with**
 
