@@ -6,7 +6,7 @@
 
 | Project | What it shows |
 |---|---|
-| [HelpDesk](https://github.com/fontanella01/helpdesk) | Multi-tenant ticket system with SLA tracking and an AI triage assistant (Claude API). React, TypeScript, Fastify, PostgreSQL, 29 tests in CI. |
+| [HelpDesk](https://github.com/fontanella01/helpdesk) | Multi-tenant ticket system with SLA tracking, ticket conversations, assignment and an AI triage assistant (Claude API). React, TypeScript, Fastify, PostgreSQL, 39 tests in CI. |
 | [Online store with Mercado Pago](https://github.com/fontanella01/online-store-mercadopago) | Storefront with Pix, card and boleto checkout on Cloudflare Pages Functions: server-side prices, signed webhooks and tests in CI. |
 | [Portfolio](https://github.com/fontanella01/portfolio) | My personal site in Next.js, in Portuguese and English. |
 | WhatsApp AI agent | In progress: an AI customer service agent with a knowledge base (RAG) and human handoff. |
